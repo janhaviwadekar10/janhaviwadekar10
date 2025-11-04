@@ -69,11 +69,14 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
  
 
 ### 🚧 Projects
-**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)*: Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
+**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)* 
+Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
 
-**📈 Smart Stock Screener (ML)** *(Jun 2025 - Jul 2025)*: Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+**📈 Smart Stock Screener (ML)** *(Jun 2025 - Jul 2025)* 
+Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
 
-**🧠 NoteX — Smart Note Taking Platform** *(Mar 2025 - May 2025)*: Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
+**🧠 NoteX — Smart Note Taking Platform** *(Mar 2025 - May 2025)* 
+Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
 
 ### 🛠️ **Skills**
 
