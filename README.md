@@ -2,7 +2,7 @@
 
   # <a href="https://janhaviwadekar.com" target="_blank">Janhavi Wadekar</a>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=550&lines=Data+Engineer;Cloud+Data+Pipelines;Analytics+Engineering;Data+Science;Software+Developer)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=550&lines=Data+Engineer;Cloud+Data+Pipelines;Analytics+Engineering;Research;FinTech)
 
 <a href="https://www.linkedin.com/in/janhavi-wadekar/" target="_blank">
   <img src="https://img.shields.io/badge/-Janhavi%20Wadekar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
