@@ -48,7 +48,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 • Executed requirements aligned with senior developer guidance + project specs  
 • Applied the latest tools/tech in app dev, integrating modern solutions into tasks
 
-### 🎯 Student Assistant Experience
+### 🎯 On-Campus Experience
 **![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 - Present)*  
 • Managed + scheduled content across official social media channels using Hootsuite  
 • Leveraged Trello to streamline task assignments + cross-functional coordination  
@@ -62,9 +62,11 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 **![Research](https://img.shields.io/badge/-Undergraduate%20Research-5A4FCF?style=flat&logo=academia&logoColor=white)** — **UR2PhD | CRA** *(May 2025 - Jun 2025)*  
 
 ### 🚧 Projects
-**📈 Smart Stock Screener (ML)**: Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)*: Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
 
-**🧠 NoteX — Smart Note Taking Platform**: Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
+**📈 Smart Stock Screener (ML)** *(Jun 2025 - Jul 2025)*: Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+
+**🧠 NoteX — Smart Note Taking Platform** *(Mar 2025 - May 2025)*: Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
 
 ### 🛠️ **Skills**
 
