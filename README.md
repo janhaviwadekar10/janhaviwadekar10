@@ -27,7 +27,7 @@
 - 🎓 Expected Graduation: Dec 2025  
 - 👥 Member, WiCyS (Women in CyberSecurity)  
 
-**Birla Institute of Technology & Science, Pilani – Dubai Campus**  
+**Birla Institute of Technology & Science, Pilani – Dubai Campus**, Dubai, United Arab Emirates
 - 🎯 Bachelor of Engineering in Computer Science Engineering
 - 📅 Sep 2021 – Jun 2023  
 - 🌍 Participated in campus organizations & marketing / alumni initiatives (KoinBasket 2023, BSF’21, Alumni Relations)  
