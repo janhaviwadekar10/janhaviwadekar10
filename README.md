@@ -59,7 +59,14 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 • Coordinated multi-stream production workflows (audio/video/ads) to maintain quality + timing  
 • Strengthened adaptability + communication through fast-paced, high-pressure live event operations
 
-**![Research](https://img.shields.io/badge/-Undergraduate%20Research-5A4FCF?style=flat&logo=academia&logoColor=white)** — **UR2PhD | CRA** *(May 2025 - Jun 2025)*  
+### 🧪 Research & Public Impact
+
+**🏆 Tech for Change Housing Access & Stability Mini-Hackathon - 3rd Place (Housing Stability Group)** *(Oct 2025)*  
+• Analyzed Georgia eviction filing data to identify stalled cases + prototyped a data-insight model to support tenants and improve housing access outcomes.
+
+**🔬 UR2PhD Undergraduate Research Training Course (CRA)** *(May 2025 - Jun 2025)*  
+• Conducting a comparative study on Centralized vs Decentralized Cryptocurrency Exchanges - evaluating performance, trust structures, + regulatory implications.
+ 
 
 ### 🚧 Projects
 **🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)*: Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
