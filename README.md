@@ -20,7 +20,7 @@
 
 </div>
 
-🎓 **Education**  
+### 🎓 **Education**  
 
 **Georgia State University**, Atlanta, GA  
 - 🎯 Bachelor of Science in Computer Science  
@@ -32,7 +32,6 @@
 - 📅 Sep 2021 – Jun 2023  
 - 🌍 Participated in campus organizations & marketing / alumni initiatives (KoinBasket 2023, BSF’21, Alumni Relations)  
 - 🏅 Represented BITS Pilani in cricket & throwball at inter-university level competitions, earning medal finishes & recognition for athletic performance
-
 
 📚 **Relevant Coursework**  
 Network Security, Database Management, Machine Learning, Artificial Intelligence, Design & Analysis: Algorithms, Data Structures, Operating Systems, Object Oriented Programming, Discrete Structures, Linear Algebra, Logic in Computer Science, Introduction to Info Systems, Microprocessor & Interfacing, Digital Design, Applied Probability & Statistics, Engineering Graphics.
