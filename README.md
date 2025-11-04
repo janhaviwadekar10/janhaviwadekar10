@@ -64,6 +64,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 
 ### 🚧 Projects
 **📈 Smart Stock Screener (ML)** — Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+
 **🧠 NoteX — Smart Note Taking Platform** — Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
 
 🛠️ **Skills**
