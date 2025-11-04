@@ -13,7 +13,7 @@
 </a>
 
 <a href="mailto:janhaviwadekar10@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 ### "Building Reliable Data Systems that Drive Real-World Impact" 🚀
@@ -28,14 +28,14 @@
 - 👥 Member, WiCyS (Women in CyberSecurity)  
 
 **Birla Institute of Technology & Science, Pilani – Dubai Campus**  
-- 🎯 Bachelor of Engineering in Computer Science  
+- 🎯 Bachelor of Engineering in Computer Science Engineering
 - 📅 Sep 2021 – Jun 2023  
 - 🌍 Participated in campus organizations & marketing / alumni initiatives (KoinBasket 2023, BSF’21, Alumni Relations)  
 - 🏅 Represented BITS Pilani in cricket & throwball at inter-university level competitions, earning medal finishes & recognition for athletic performance
 
 
 📚 **Relevant Coursework**  
-Network Security, Database Management, Machine Learning, Artificial Intelligence 
+Network Security, Database Management, Machine Learning, Artificial Intelligence, Design & Analysis: Algorithms, Data Structures, Operating Systems, Object Oriented Programming, Discrete Structures, Linear Algebra, Logic in Computer Science, Introduction to Info Systems, Microprocessor & Interfacing, Digital Design, Applied Probability & Statistics, Engineering Graphics.
 
 ### 💼 Experience
 
