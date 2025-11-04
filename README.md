@@ -63,14 +63,11 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
  
 
 ### 🚧 Projects
-**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)* 
-Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
+**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)* - Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
 
-**📈 Smart Stock Screener (ML)** *(Jun 2025 - Jul 2025)* 
-Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+**📈 Smart Stock Screener (ML)** *(Jun 2025 - Jul 2025)* - Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
 
-**🧠 NoteX — Smart Note Taking Platform** *(Mar 2025 - May 2025)* 
-Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
+**🧠 NoteX — Smart Note Taking Platform** *(Mar 2025 - May 2025)* - Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
 
 ### 🛠️ **Skills**
 
@@ -81,7 +78,6 @@ Built a full-stack personal knowledge system (React + Flask) enabling users to c
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
@@ -115,13 +111,13 @@ Built a full-stack personal knowledge system (React + Flask) enabling users to c
 
 
 ### 👥 **Leadership & Affiliations**  
-- **President**, Indian Student Organization @ Georgia State University (Feb 2025 - Aug 2025): led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
-- **Vice President**, Indian Student Organization @ Georgia State University (Sep 2024 - Jan 2025): drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
-- **Head of Public Relations**, Indian Student Organization @ Georgia State University (Sep 2023 - Aug 2024): managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
-- **Data Team Member**, Alumni Relations Club @ BITS Pilani Dubai (Oct 2022 - Jun 2023): supported alumni data initiatives and event operations, including Raviver’23 (2004–2022 alumni), driving engagement between past + current cohorts.
-- **Marketing Team Member**, KoinBasket – Jashn’23 @ BITS Pilani Dubai (Mar 2023): executed sponsor campaign initiatives and supported fulfillment of 4,000 sponsor-driven website entries.
-- **Marketing Team Member**, BITS Sports Festival ’21 @ BITS Pilani Dubai (Nov 2021): contributed market insights, sponsorship ideation, and brand placement strategies for BSF.
-- **Member**, Rotary Club of Thane Downtown (Apr 2015 – Apr 2017)
+- **President**, ***Indian Student Organization @ Georgia State University (Feb 2025 - Aug 2025):*** led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
+- **Vice President**, ***Indian Student Organization @ Georgia State University (Sep 2024 - Jan 2025):*** drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
+- **Head of Public Relations**, ***Indian Student Organization @ Georgia State University (Sep 2023 - Aug 2024):*** managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
+- **Data Team Member**, ***Alumni Relations Club @ BITS Pilani Dubai (Oct 2022 - Jun 2023):*** supported alumni data initiatives and event operations, including Raviver’23 (2004–2022 alumni), driving engagement between past + current cohorts.
+- **Marketing Team Member**, ***KoinBasket – Jashn’23 @ BITS Pilani Dubai (Mar 2023):*** executed sponsor campaign initiatives and supported fulfillment of 4,000 sponsor-driven website entries.
+- **Marketing Team Member**, ***BITS Sports Festival ’21 @ BITS Pilani Dubai (Nov 2021):*** contributed market insights, sponsorship ideation, and brand placement strategies for BSF.
+- **Member**, ***Rotary Club of Thane Downtown (Apr 2015 – Apr 2017)***
 
 ### 🌍 **Hobbies**
 <p>
