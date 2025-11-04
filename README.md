@@ -109,12 +109,12 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 
 
 ### 👥 **Leadership & Affiliations**  
-- **President**, Indian Student Organization @ Georgia State University (Feb 2025 – Aug 2025) — led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
-- **Vice President**, Indian Student Organization @ Georgia State University (Sep 2024 – Jan 2025) — drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
-- **Head of Public Relations**, Indian Student Organization @ Georgia State University (Sep 2023 – Aug 2024) — managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
-- **Data Team Member**, Alumni Relations Club @ BITS Pilani Dubai (Oct 2022 – Jun 2023) — supported alumni data initiatives and event operations including Raviver ’23 (2004–2022 alumni), driving engagement between past + current cohorts.
-- **Marketing Team Member**, KoinBasket – Jashn’23 @ BITS Pilani Dubai (Mar 2023) — executed sponsor campaign initiatives and supported fulfillment of 4,000 sponsor-driven website entries.
-- **Marketing Team Member**, BITS Sports Festival ’21 @ BITS Pilani Dubai (Nov 2021) — contributed market insights, sponsorship ideation, and brand placement strategies for BSF.
+- **President**, Indian Student Organization @ Georgia State University (Feb 2025 – Aug 2025): led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
+- **Vice President**, Indian Student Organization @ Georgia State University (Sep 2024 – Jan 2025): drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
+- **Head of Public Relations**, Indian Student Organization @ Georgia State University (Sep 2023 – Aug 2024): managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
+- **Data Team Member**, Alumni Relations Club @ BITS Pilani Dubai (Oct 2022 – Jun 2023): supported alumni data initiatives and event operations, including Raviver’23 (2004–2022 alumni), driving engagement between past + current cohorts.
+- **Marketing Team Member**, KoinBasket – Jashn’23 @ BITS Pilani Dubai (Mar 2023): executed sponsor campaign initiatives and supported fulfillment of 4,000 sponsor-driven website entries.
+- **Marketing Team Member**, BITS Sports Festival ’21 @ BITS Pilani Dubai (Nov 2021): contributed market insights, sponsorship ideation, and brand placement strategies for BSF.
 - **Member**, Rotary Club of Thane Downtown (Apr 2015 – Apr 2017)
 
 ### Hobbies
