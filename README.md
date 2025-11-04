@@ -119,11 +119,15 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 - **Member**, Rotary Club of Thane Downtown (Apr 2015 – Apr 2017)
 
 ### Hobbies
+<p>
+  
+<img src="https://img.shields.io/badge/-Travelling%20Places-009688?style=flat&logo=globe&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tennis-006400?style=flat&logo=tennis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Formula%201%20(F1)-E10600?style=flat&logo=formula-one&logoColor=white" />
+<img src="https://img.shields.io/badge/-Finance%20/%20FinTech-228B22?style=flat&logo=money&logoColor=white" />
+<img src="https://img.shields.io/badge/-Coffee%20Lover-6F4E37?style=flat&logo=coffeescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Learning%20DJ--ing-F50057?style=flat&logo=music&logoColor=white" />
+<img src="https://img.shields.io/badge/-Chemistry-1E90FF?style=flat&logo=beaker&logoColor=white" />
 
-- ![Travelling](https://img.shields.io/badge/-Travelling%20Places-009688?style=flat&logo=globe&logoColor=white)
-- ![Tennis](https://img.shields.io/badge/-Tennis-006400?style=flat&logo=tennis&logoColor=white)
-- ![Formula 1](https://img.shields.io/badge/-Formula%201%20(F1)-E10600?style=flat&logo=formula-one&logoColor=white)
-- ![Finance / FinTech](https://img.shields.io/badge/-Finance%20/%20FinTech-228B22?style=flat&logo=money&logoColor=white)
-- ![Coffee Lover](https://img.shields.io/badge/-Coffee%20Lover-6F4E37?style=flat&logo=coffeescript&logoColor=white)
-- ![Learning DJ-ing](https://img.shields.io/badge/-Learning%20DJ--ing-F50057?style=flat&logo=music&logoColor=white)
-- ![Chemistry](https://img.shields.io/badge/-Chemistry-1E90FF?style=flat&logo=beaker&logoColor=white)
+</p>
+
