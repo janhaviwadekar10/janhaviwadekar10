@@ -38,33 +38,33 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 
 ### 💼 Internship Experience
 
-**![Data Engineering Intern](https://img.shields.io/badge/-Data%20Engineering%20Intern-4285F4?style=flat&logo=googlecloud&logoColor=white)** — **Randstad USA** *(May 2024 – Aug 2024)*  
-• Designed + deployed automated Airflow + BigQuery pipelines, replacing manual SQL-driven data retention workflows  
-• Enabled multi-team submissions + processing via scalable request intake + tracking system  
-• Worked in Agile (Scrum/Kanban/Lean), shipping production-grade features to improve trust + governance
+**![Data Engineering Intern](https://img.shields.io/badge/-Data%20Engineering%20Intern-4285F4?style=flat&logo=googlecloud&logoColor=white)** — **Randstad USA** *(May 2024 - Aug 2024)*  
+• Built an automated Data Retention Request system using BigQuery, Airflow + GCP, streamlining high-volume workflows  
+• Applied Python, SQL + data modeling to ship efficient, scalable data solutions  
+• Gained hands-on experience in big data pipelines, driving operational efficiency + collaboration across teams
 
-**![Application Developer Intern](https://img.shields.io/badge/-Application%20Developer%20Intern-007396?style=flat&logo=android&logoColor=white)** — **ODeX Global** *(Jun 2023 – Jul 2023)*  
-• Integrated new feature modules into Android applications using Android Studio + Jetpack components  
-• Collaborated on requirement analysis + performance optimization with senior developers  
-• Strengthened fundamentals in debugging, SDLC, mobile architecture + scalable feature shipping
+**![Application Developer Intern](https://img.shields.io/badge/-Application%20Developer%20Intern-007396?style=flat&logo=android&logoColor=white)** — **ODeX Global** *(Jun 2023 - Jul 2023)*  
+• Enhanced Android apps by integrating new feature modules using Android Studio  
+• Executed requirements aligned with senior developer guidance + project specs  
+• Applied the latest tools/tech in app dev, integrating modern solutions into tasks
 
 ### 🎯 Student Assistant Experience
-**![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 – Present)*  
+**![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 - Present)*  
 • Managed + scheduled content across official social media channels using Hootsuite  
 • Leveraged Trello to streamline task assignments + cross-functional coordination  
 • Analyzed engagement data + delivered insights to optimize message targeting + campaign efficiency
 
-**![Student Assistant — ESPN Production](https://img.shields.io/badge/-Student%20Assistant%20(ESPN%20Production)-E53935?style=flat&logo=espn&logoColor=white)** — **Georgia State University — GSU Production Network** *(Oct 2023 – Apr 2025)*  
+**![Student Assistant — ESPN Production](https://img.shields.io/badge/-Student%20Assistant%20(ESPN%20Production)-E53935?style=flat&logo=espn&logoColor=white)** — **Georgia State University — GSU Production Network** *(Oct 2023 - Apr 2025)*  
 • Produced + broadcasted live Division I ESPN athletic events, resolving real-time technical issues  
 • Coordinated multi-stream production workflows (audio/video/ads) to maintain quality + timing  
 • Strengthened adaptability + communication through fast-paced, high-pressure live event operations
 
-**![Research](https://img.shields.io/badge/-Undergraduate%20Research-5A4FCF?style=flat&logo=academia&logoColor=white)** — **UR2PhD | CRA** *(May 2025 – Jun 2025)*  
+**![Research](https://img.shields.io/badge/-Undergraduate%20Research-5A4FCF?style=flat&logo=academia&logoColor=white)** — **UR2PhD | CRA** *(May 2025 - Jun 2025)*  
 
 ### 🚧 Projects
-**📈 Smart Stock Screener (ML)** — Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+**📈 Smart Stock Screener (ML)**: Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
 
-**🧠 NoteX — Smart Note Taking Platform** — Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
+**🧠 NoteX — Smart Note Taking Platform**: Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
 
 ### 🛠️ **Skills**
 
@@ -109,15 +109,15 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 
 
 ### 👥 **Leadership & Affiliations**  
-- **President**, Indian Student Organization @ Georgia State University (Feb 2025 – Aug 2025): led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
-- **Vice President**, Indian Student Organization @ Georgia State University (Sep 2024 – Jan 2025): drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
-- **Head of Public Relations**, Indian Student Organization @ Georgia State University (Sep 2023 – Aug 2024): managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
-- **Data Team Member**, Alumni Relations Club @ BITS Pilani Dubai (Oct 2022 – Jun 2023): supported alumni data initiatives and event operations, including Raviver’23 (2004–2022 alumni), driving engagement between past + current cohorts.
+- **President**, Indian Student Organization @ Georgia State University (Feb 2025 - Aug 2025): led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
+- **Vice President**, Indian Student Organization @ Georgia State University (Sep 2024 - Jan 2025): drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
+- **Head of Public Relations**, Indian Student Organization @ Georgia State University (Sep 2023 - Aug 2024): managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
+- **Data Team Member**, Alumni Relations Club @ BITS Pilani Dubai (Oct 2022 - Jun 2023): supported alumni data initiatives and event operations, including Raviver’23 (2004–2022 alumni), driving engagement between past + current cohorts.
 - **Marketing Team Member**, KoinBasket – Jashn’23 @ BITS Pilani Dubai (Mar 2023): executed sponsor campaign initiatives and supported fulfillment of 4,000 sponsor-driven website entries.
 - **Marketing Team Member**, BITS Sports Festival ’21 @ BITS Pilani Dubai (Nov 2021): contributed market insights, sponsorship ideation, and brand placement strategies for BSF.
 - **Member**, Rotary Club of Thane Downtown (Apr 2015 – Apr 2017)
 
-### Hobbies
+### 🌍 **Hobbies**
 <p>
   
 <img src="https://img.shields.io/badge/-Travelling%20Places-009688?style=flat&logo=globe&logoColor=white" />
