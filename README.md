@@ -62,6 +62,10 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 
 **![Research](https://img.shields.io/badge/-Undergraduate%20Research-5A4FCF?style=flat&logo=academia&logoColor=white)** — **UR2PhD | CRA** *(May 2025 – Jun 2025)*  
 
+### 🚧 Projects
+**📈 Smart Stock Screener (ML)** — Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
+**🧠 NoteX — Smart Note Taking Platform** — Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
+
 🛠️ **Skills**
 
 **Programming Languages**:  
@@ -112,12 +116,6 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 - **Marketing Team Member**, KoinBasket – Jashn’23 @ BITS Pilani Dubai (Mar 2023) — executed sponsor campaign initiatives and supported fulfillment of 4,000 sponsor-driven website entries.
 - **Marketing Team Member**, BITS Sports Festival ’21 @ BITS Pilani Dubai (Nov 2021) — contributed market insights, sponsorship ideation, and brand placement strategies for BSF.
 - **Member**, Rotary Club of Thane Downtown (Apr 2015 – Apr 2017)
-
-### Projects
-
-**Smart Stock Screener (ML)** — Built predictive stock screener ranking equities by expected 30-day returns using Python, scikit-learn, and yfinance; automated daily market data ingestion + feature engineering to generate data-driven buy/sell candidates.
-
-**NoteX — Smart Note Taking Platform** — Designed and deployed full-stack note platform with React front-end + Flask backend enabling users to create, organize, and manage notes with persistent storage and real-time updates.
 
 ### Hobbies
 
