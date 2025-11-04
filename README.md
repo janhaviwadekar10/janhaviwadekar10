@@ -37,7 +37,7 @@
 📚 **Relevant Coursework**  
 Network Security, Database Management, Machine Learning, Artificial Intelligence, Design & Analysis: Algorithms, Data Structures, Operating Systems, Object Oriented Programming, Discrete Structures, Linear Algebra, Logic in Computer Science, Introduction to Info Systems, Microprocessor & Interfacing, Digital Design, Applied Probability & Statistics, Engineering Graphics.
 
-### 💼 Experience
+### 💼 Internship Experience
 
 **![Data Engineering Intern](https://img.shields.io/badge/-Data%20Engineering%20Intern-4285F4?style=flat&logo=googlecloud&logoColor=white)** — **Randstad USA** *(May 2024 – Aug 2024)*  
 • Designed + deployed automated Airflow + BigQuery pipelines, replacing manual SQL-driven data retention workflows  
@@ -49,6 +49,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 • Collaborated on requirement analysis + performance optimization with senior developers  
 • Strengthened fundamentals in debugging, SDLC, mobile architecture + scalable feature shipping
 
+### 🎯 Student Assistant Experience
 **![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 – Present)*  
 • Managed + scheduled content across official social media channels using Hootsuite  
 • Leveraged Trello to streamline task assignments + cross-functional coordination  
@@ -57,7 +58,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 **![Student Assistant — ESPN Production](https://img.shields.io/badge/-Student%20Assistant%20(ESPN%20Production)-E53935?style=flat&logo=espn&logoColor=white)** — **Georgia State University — GSU Production Network** *(Oct 2023 – Apr 2025)*  
 • Produced + broadcasted live Division I ESPN athletic events, resolving real-time technical issues  
 • Coordinated multi-stream production workflows (audio/video/ads) to maintain quality + timing  
-• Strengthened adaptability + communication through fast-paced high-pressure live event operations
+• Strengthened adaptability + communication through fast-paced, high-pressure live event operations
 
 **![Research](https://img.shields.io/badge/-Undergraduate%20Research-5A4FCF?style=flat&logo=academia&logoColor=white)** — **UR2PhD | CRA** *(May 2025 – Jun 2025)*  
 
