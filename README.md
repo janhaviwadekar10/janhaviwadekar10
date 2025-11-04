@@ -2,7 +2,7 @@
 
   # <a href="https://janhaviwadekar.com" target="_blank">Janhavi Wadekar</a>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=550&lines=Data+Engineer;Cloud+Engineering;Research+Enthusiast;FinTech+Enthusiast;Application+Developer;Data+Analyst)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=550&lines=Data+Engineer;Cloud+Engineering;Research+Enthusiast;Application+Developer;Data+Analyst)
 
 <a href="https://www.linkedin.com/in/janhavi-wadekar/" target="_blank">
   <img src="https://img.shields.io/badge/-Janhavi%20Wadekar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -67,7 +67,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 
 **🧠 NoteX — Smart Note Taking Platform** — Built a full-stack personal knowledge system (React + Flask) enabling users to create, tag, store & retrieve notes with persistent DB storage and smooth real-time UI. Designed to scale into a personalized knowledge graph.
 
-🛠️ **Skills**
+### 🛠️ **Skills**
 
 **Programming Languages**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -109,7 +109,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
-👥 **Leadership & Affiliations**  
+### 👥 **Leadership & Affiliations**  
 - **President**, Indian Student Organization @ Georgia State University (Feb 2025 – Aug 2025) — led 200+ active members, scaled large-format cultural/programming events, and strengthened multi-organization collaborations across campus.
 - **Vice President**, Indian Student Organization @ Georgia State University (Sep 2024 – Jan 2025) — drove 70% growth in social media reach, expanded strategic partnerships, and executed high-engagement events with 500+ attendees.
 - **Head of Public Relations**, Indian Student Organization @ Georgia State University (Sep 2023 – Aug 2024) — managed communications strategy, brand alignment, crisis communication, and community outreach while elevating organizational visibility.
