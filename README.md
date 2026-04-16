@@ -18,7 +18,7 @@
 
 **Georgia State University**, Atlanta, GA  
 - 🎯 Bachelor of Science in Computer Science  
-- 🎓 Expected Graduation: Dec 2025  
+- 🎓 Aug 2023 - Dec 2025  
 - 👥 Member, WiCyS (Women in CyberSecurity)  
 
 **Birla Institute of Technology & Science, Pilani – Dubai Campus**, Dubai, United Arab Emirates
