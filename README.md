@@ -43,7 +43,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 • Applied the latest tools/tech in app dev, integrating modern solutions into tasks
 
 ### 🎯 On-Campus Experience
-**![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 - Present)*  
+**![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 - Dec 2025)*  
 • Managed + scheduled content across official social media channels using Hootsuite  
 • Leveraged Trello to streamline task assignments + cross-functional coordination  
 • Analyzed engagement data + delivered insights to optimize message targeting + campaign efficiency
@@ -63,7 +63,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
  
 
 ### 🚧 Projects
-**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Present)* - Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
+**🏠 Rental Property & Tenant Portal** *(Sept 2025 - Dec 2025)* - Building a MySQL-based tenant/lease management system handling invoices, payments + maintenance requests, with automated late-fee billing via SQL triggers + scheduled jobs that dynamically update tenant ledgers.
 
 **📈 Smart Stock Screener (ML)** *(Jun 2025 - Jul 2025)* - Engineered a predictive equity-ranking engine using Python, scikit-learn & yfinance to forecast 30-day returns. Automated ingestion → feature gen → scoring → ranking pipeline, converting noisy market data into actionable buy/sell signals.
 
@@ -130,4 +130,3 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 <img src="https://img.shields.io/badge/-Chemistry-1E90FF?style=flat&logo=beaker&logoColor=white" />
 
 </p>
-
