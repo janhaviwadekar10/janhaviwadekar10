@@ -69,7 +69,7 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 ### 🚧 Projects
 
 **🏎️ F1 Race Strategy Anomaly & Pit Stop Intelligence Platform** *(Jun 2026)*
-Built an end-to-end data engineering + ML pipeline that ingests live 2025 Monaco GP telemetry via FastF1, engineers time-series features with PySpark, and flags unusual pit strategies and tyre degradation events using Isolation Forest — detecting 69 anomalies across 1,364 real race laps.
+Built an end-to-end data engineering + ML pipeline that ingests live 2025 Monaco GP telemetry via FastF1, engineers time-series features with PySpark, and flags unusual pit strategies and tyre degradation events using Isolation Forest, detecting 69 anomalies across 1,364 real race laps.
 > `Python` `PySpark` `scikit-learn` `FastAPI` `PostgreSQL` `AWS S3` `Linux` `FastF1`
 
 ---
