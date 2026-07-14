@@ -31,38 +31,43 @@ Network Security, Database Management, Machine Learning, Artificial Intelligence
 ### 💼 Internship Experience
 
 **![Data Engineering Intern](https://img.shields.io/badge/-Data%20Engineering%20Intern-4285F4?style=flat&logo=googlecloud&logoColor=white)** — **Randstad USA** *(May 2024 - Aug 2024)*
-• Built an automated Data Retention Request system using BigQuery, Airflow + GCP, streamlining high-volume workflows
-• Applied Python, SQL + data modeling to ship efficient, scalable data solutions
-• Gained hands-on experience in big data pipelines, driving operational efficiency + collaboration across teams
+- Built an automated Data Retention Request system using BigQuery, Airflow + GCP, streamlining high-volume workflows
+- Applied Python, SQL + data modeling to ship efficient, scalable data solutions
+- Gained hands-on experience in big data pipelines, driving operational efficiency + collaboration across teams
 
 **![Application Developer Intern](https://img.shields.io/badge/-Application%20Developer%20Intern-007396?style=flat&logo=android&logoColor=white)** — **ODeX Global** *(Jun 2023 - Jul 2023)*
-• Enhanced Android apps by integrating new feature modules using Android Studio
-• Executed requirements aligned with senior developer guidance + project specs
-• Applied the latest tools/tech in app dev, integrating modern solutions into tasks
+- Enhanced Android apps by integrating new feature modules using Android Studio
+- Executed requirements aligned with senior developer guidance + project specs
+- Applied the latest tools/tech in app dev, integrating modern solutions into tasks
 
 ---
 
 ### 🎯 On-Campus Experience
 
+**![MarTech Analyst](https://img.shields.io/badge/-MarTech%20Analyst-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(Jan 2026 - Present)*
+- Assist in data migration and workflow optimization, verifying data integrity and consistency during platform updates
+- Analyze website traffic and social media datasets to generate performance reports and identify user behavior trends, providing data-driven recommendations for platform improvements
+- Manage and optimize digital data workflows, coordinating cross-team processes and automating scheduling tasks to improve efficiency
+
 **![Student Assistant — Marketing Analyst](https://img.shields.io/badge/-Student%20Assistant%20(Marketing%20Analyst)-FF69B4?style=flat&logo=hootsuite&logoColor=white)** — **Georgia State University — Andrew Young School of Policy Studies** *(May 2025 - Dec 2025)*
-• Managed + scheduled content across official social media channels using Hootsuite
-• Leveraged Trello to streamline task assignments + cross-functional coordination
-• Analyzed engagement data + delivered insights to optimize message targeting + campaign efficiency
+- Managed + scheduled content across official social media channels using Hootsuite
+- Leveraged Trello to streamline task assignments + cross-functional coordination
+- Analyzed engagement data + delivered insights to optimize message targeting + campaign efficiency
 
 **![Student Assistant — ESPN Production](https://img.shields.io/badge/-Student%20Assistant%20(ESPN%20Production)-E53935?style=flat&logo=espn&logoColor=white)** — **Georgia State University — GSU Production Network** *(Oct 2023 - Apr 2025)*
-• Produced + broadcasted live Division I ESPN athletic events, resolving real-time technical issues
-• Coordinated multi-stream production workflows (audio/video/ads) to maintain quality + timing
-• Strengthened adaptability + communication through fast-paced, high-pressure live event operations
+- Produced + broadcasted live Division I ESPN athletic events, resolving real-time technical issues
+- Coordinated multi-stream production workflows (audio/video/ads) to maintain quality + timing
+- Strengthened adaptability + communication through fast-paced, high-pressure live event operations
 
 ---
 
 ### 🧪 Research & Public Impact
 
 **🏆 Tech for Change Housing Access & Stability Mini-Hackathon - 3rd Place (Housing Stability Group)** *(Oct 2025)*
-• Analyzed Georgia eviction filing data to identify stalled cases + prototyped a data-insight model to support tenants and improve housing access outcomes.
+- Analyzed Georgia eviction filing data to identify stalled cases + prototyped a data-insight model to support tenants and improve housing access outcomes.
 
 **🔬 UR2PhD Undergraduate Research Training Course (CRA)** *(May 2025 - Jun 2025)*
-• Conducting a comparative study on Centralized vs Decentralized Cryptocurrency Exchanges - evaluating performance, trust structures, + regulatory implications.
+- Conducted a comparative study on Centralized vs Decentralized Cryptocurrency Exchanges - evaluating performance, trust structures, + regulatory implications.
 
 ---
 
@@ -134,6 +139,16 @@ Built a full-stack personal knowledge system (React + Flask) enabling users to c
 ![Hootsuite](https://img.shields.io/badge/-Hootsuite-000000?style=flat&logo=hootsuite&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+---
+
+### 🎖️ **Certifications**
+- UR2PhD Undergraduate Research Training Course (CRA)
+- INSIDE LVMH Certificate *(2026)* — Creation & Branding, Operations & Supply Chain
+- SQL for Data Analysis *(2020)*
+- Machine Learning with Python: Foundations
+- The Non-Technical Skills of Effective Data Scientists
+- Programming for Everybody (Getting Started with Python)
 
 ---
 
